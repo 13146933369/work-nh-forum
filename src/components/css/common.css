@@ -1,0 +1,72 @@
+/* 公用样式类 */
+
+/*分类字体大小*/
+body{
+    font-family:"微软雅黑";
+    background-color:#fff;
+}
+#app{
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+}
+/*商品分类字体*/
+.classifyFont{
+    font-size: 22px;
+}
+/*商品标题字体*/
+.shopTitle{
+    font-size:36px;
+}
+/*为你推荐字体*/
+.recommendFont{
+    font-size: 36px;
+}
+/*为你推荐内容字体*/
+.recommendContenFont{
+    font-size: 26px;
+}
+
+/* 左浮动 */
+.lf{
+    float: left;
+}
+
+/* 右浮动 */
+.rf{
+    float: right;
+}
+
+/* 消除浮动 */
+.clearfix:after{
+	display: block;
+	height: 0;
+	content: '.';
+	clear: both;
+	visibility: hidden;
+}
+
+/*商品详情页价格*/
+.detailBoxFont{
+    font-size:54px;
+}
+.detailBoxFont_1{
+    font-size:24px;
+}
+.detailNameFont{
+    font-size:32px;
+}
+/*搜索列表主标题字大小*/
+.mainHeadFont{
+    font-size:30px;
+}
+.subHeadFont{
+    font-size:22px;
+}
+.searFont{
+    font-size:28px;
+}
+
+
+
+/*搜索列表副标题字大小*/
